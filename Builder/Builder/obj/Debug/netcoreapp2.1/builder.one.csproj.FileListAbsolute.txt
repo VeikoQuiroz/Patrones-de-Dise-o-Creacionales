@@ -1,0 +1,10 @@
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\bin\Debug\netcoreapp2.1\builder.one.deps.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\bin\Debug\netcoreapp2.1\builder.one.runtimeconfig.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\bin\Debug\netcoreapp2.1\builder.one.runtimeconfig.dev.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\bin\Debug\netcoreapp2.1\builder.one.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\bin\Debug\netcoreapp2.1\builder.one.pdb
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\obj\Debug\netcoreapp2.1\builder.one.csproj.CoreCompileInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\obj\Debug\netcoreapp2.1\builder.one.AssemblyInfoInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\obj\Debug\netcoreapp2.1\builder.one.AssemblyInfo.cs
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\obj\Debug\netcoreapp2.1\builder.one.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\Builder\obj\Debug\netcoreapp2.1\builder.one.pdb

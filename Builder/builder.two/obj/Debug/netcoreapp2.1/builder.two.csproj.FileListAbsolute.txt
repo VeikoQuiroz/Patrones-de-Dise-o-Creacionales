@@ -1,0 +1,11 @@
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\bin\Debug\netcoreapp2.1\builder.two.deps.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\bin\Debug\netcoreapp2.1\builder.two.runtimeconfig.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\bin\Debug\netcoreapp2.1\builder.two.runtimeconfig.dev.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\bin\Debug\netcoreapp2.1\builder.two.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\bin\Debug\netcoreapp2.1\builder.two.pdb
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.csprojAssemblyReference.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.csproj.CoreCompileInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.AssemblyInfoInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.AssemblyInfo.cs
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\Builder\builder.two\obj\Debug\netcoreapp2.1\builder.two.pdb
