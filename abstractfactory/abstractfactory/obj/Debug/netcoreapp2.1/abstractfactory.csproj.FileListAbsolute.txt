@@ -1,0 +1,11 @@
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.csprojAssemblyReference.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.csproj.CoreCompileInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.AssemblyInfoInputs.cache
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.AssemblyInfo.cs
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\bin\Debug\netcoreapp2.1\abstractfactory.deps.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\bin\Debug\netcoreapp2.1\abstractfactory.runtimeconfig.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\bin\Debug\netcoreapp2.1\abstractfactory.runtimeconfig.dev.json
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\bin\Debug\netcoreapp2.1\abstractfactory.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\bin\Debug\netcoreapp2.1\abstractfactory.pdb
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.dll
+D:\Veiko\Maestria\DyCS\C#\PatronesCreacionales\abstractfactory\abstractfactory\obj\Debug\netcoreapp2.1\abstractfactory.pdb
